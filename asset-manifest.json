@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/Web-UI/static/css/main.1156b8fb.css",
-    "main.js": "/Web-UI/static/js/main.6bf7604e.js",
+    "main.css": "/Web-UI/static/css/main.aec68536.css",
+    "main.js": "/Web-UI/static/js/main.3ed26766.js",
     "static/js/787.62449090.chunk.js": "/Web-UI/static/js/787.62449090.chunk.js",
+    "static/media/blogpost.jpg": "/Web-UI/static/media/blogpost.0e73b8f1f463b336e754.jpg",
+    "static/media/login.jpg": "/Web-UI/static/media/login.1c6410cb145f30dd43ea.jpg",
+    "static/media/ads.jpg": "/Web-UI/static/media/ads.d1e3ffcd27c133f4419f.jpg",
+    "static/media/tree.jpg": "/Web-UI/static/media/tree.8af8c24fe5f323758caa.jpg",
+    "static/media/interior.jpg": "/Web-UI/static/media/interior.2c3934a91c1583fdcb7c.jpg",
+    "static/media/interior2.jpg": "/Web-UI/static/media/interior2.95c9625b457dcc3379cc.jpg",
+    "static/media/avatar1.jpeg": "/Web-UI/static/media/avatar1.2270c1ea04955ff03e2d.jpeg",
+    "static/media/google.png": "/Web-UI/static/media/google.3b44a32b77f4074c1956.png",
+    "static/media/avatar5.jpeg": "/Web-UI/static/media/avatar5.92f26da7a0748e97c9f8.jpeg",
     "index.html": "/Web-UI/index.html",
-    "main.1156b8fb.css.map": "/Web-UI/static/css/main.1156b8fb.css.map",
-    "main.6bf7604e.js.map": "/Web-UI/static/js/main.6bf7604e.js.map",
+    "main.aec68536.css.map": "/Web-UI/static/css/main.aec68536.css.map",
+    "main.3ed26766.js.map": "/Web-UI/static/js/main.3ed26766.js.map",
     "787.62449090.chunk.js.map": "/Web-UI/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1156b8fb.css",
-    "static/js/main.6bf7604e.js"
+    "static/css/main.aec68536.css",
+    "static/js/main.3ed26766.js"
   ]
 }
